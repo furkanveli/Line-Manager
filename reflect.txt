@@ -1,0 +1,18 @@
+// Name: Furkan Veli Ozalp
+// Seneca Student ID: 157580200
+// Seneca email: fvozalp@myseneca.ca
+// Date of completion: 2022-07-06
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+I didn't receive or offer any coding help in this project.
+In this final project I managed to refresh my memory on pretty much every topic we studied and learned throughout the course.
+It tested my skills in terms of using the standard c++ library algorithms and functions to implement certain functionalities
+in the project. I was mostly using while and for loops and more basic style of coding before we studied the standard library 
+algorithms and functions but this project helped me in simplifying my code and utilizing the standard library. In this project
+I also refreshed and tested my skills in file stream objects and how to read from files properly. The course material provided
+in OOP345 was enough for covering anything the project needed and I didn't need to resort to any external sources to finish my
+workshops and assignments. I think the OOP345 adds more functionality and depth into what I've learned in OOP244 in the previous
+semester which improves my coding skills and approach. 
+
